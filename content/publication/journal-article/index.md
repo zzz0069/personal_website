@@ -1,13 +1,9 @@
 ---
 title: "A critical review of inductive logic programming techniques for explainable AI"
 authors:
-- admin
+- Zheng Zhang
 - Levent Yilmaz
 - Bo Liu
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
