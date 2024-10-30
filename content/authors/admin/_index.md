@@ -180,4 +180,4 @@ awards:
 
 ## About Me
 
-Zheng Zhang is a assistant professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zheng Zhang is an assistant professor in Computer Science and Information Systems department at Murray State University. His research interests include Artificial Intelligence, Natural Language Processing, Intrusion Detection, and Neural-Symbolic AI.
