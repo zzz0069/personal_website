@@ -180,4 +180,4 @@ awards:
 
 ## About Me
 
-Zheng Zhang is an assistant professor in Computer Science and Information Systems department at Murray State University. His research interests include Artificial Intelligence, Natural Language Processing, Intrusion Detection, and Neural-Symbolic AI.
+Zheng Zhang is an assistant professor in the Department of Computer Science and Information Systems at Murray State University. His research interests include artificial intelligence, natural language processing, intrusion detection, and neural-symbolic AI.
